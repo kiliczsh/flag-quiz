@@ -1,0 +1,63 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/kilic/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /home/kilic/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /home/kilic/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /home/kilic/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /home/kilic/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /home/kilic/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /home/kilic/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:2:1-18:12
+	package
+		ADDED from /home/kilic/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:3:4-37
+		INJECTED from /home/kilic/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kilic/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/kilic/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:4:4-29
+		INJECTED from /home/kilic/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kilic/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/kilic/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/kilic/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:3:38-61
+		INJECTED from /home/kilic/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kilic/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/kilic/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:5:4-16:18
+	android:label
+		ADDED from /home/kilic/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:6:7-39
+	android:icon
+		ADDED from /home/kilic/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:5:17-46
+	android:theme
+		ADDED from /home/kilic/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:7:7-54
+activity#com.deitel.flagquizgame.FlagQuizGame
+ADDED from /home/kilic/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:8:7-15:18
+	android:screenOrientation
+		ADDED from /home/kilic/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:10:10-46
+	android:label
+		ADDED from /home/kilic/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:9:10-42
+	android:name
+		ADDED from /home/kilic/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:8:17-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/kilic/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:11:10-14:26
+action#android.intent.action.MAIN
+ADDED from /home/kilic/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:12:13-65
+	android:name
+		ADDED from /home/kilic/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:12:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/kilic/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:13:13-73
+	android:name
+		ADDED from /home/kilic/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:13:23-70
+uses-sdk
+ADDED from /home/kilic/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:17:4-45
+INJECTED from /home/kilic/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:17:4-45
+INJECTED from /home/kilic/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:17:4-45
+INJECTED from /home/kilic/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:17:4-45
+INJECTED from /home/kilic/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:17:4-45
+	android:targetSdkVersion
+		ADDED from /home/kilic/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:17:14-43
+		INJECTED from /home/kilic/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kilic/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/kilic/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml
+		ADDED from /home/kilic/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml:17:4-45
+		INJECTED from /home/kilic/AndroidStudioProjects/FlagQuizGame/app/src/main/AndroidManifest.xml

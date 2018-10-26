@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="guessesList">
+        <item>3</item>
+        <item>6</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="regionsList">
+        <item>Africa</item>
+        <item>Asia</item>
+        <item>Europe</item>
+        <item>North_America</item>
+        <item>Oceania</item>
+        <item>South_America</item>
+    </string-array>
+    <color name="background_color">#FFFFCC</color>
+    <color name="correct_answer">#00CC00</color>
+    <color name="incorrect_answer">#FF0000</color>
+    <color name="text_color">#000000</color>
+    <dimen name="answer_size">40sp</dimen>
+    <dimen name="flag_height">150dp</dimen>
+    <dimen name="flag_width">227dp</dimen>
+    <dimen name="text_size">20sp</dimen>
+    <dimen name="title_size">25sp</dimen>
+    <string name="app_name">FlagQuizGame</string>
+    <string name="bonus_question">\"Ready For Bonus Question?\"</string>
+    <string name="capital">Capital</string>
+    <string name="capital_question">\"Capital Question\"</string>
+    <string name="choices">Select Number of Choices</string>
+    <string name="correct">correct</string>
+    <string name="guess_country">Guess the Country</string>
+    <string name="guesses">guesses</string>
+    <string name="incorrect_answer">Incorrect!</string>
+    <string name="more_regions_message">There are not enough countries in
+      the selected regions. Please select more regions.</string>
+    <string name="more_regions_title">More Regions Required</string>
+    <string name="of">of</string>
+    <string name="ok">OK</string>
+    <string name="question">Question</string>
+    <string name="quiz_title">Ten Question Flag Quiz</string>
+    <string name="regions">Select Regions</string>
+    <string name="reset_quiz">Reset Quiz</string>
+</resources>
